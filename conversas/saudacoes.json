@@ -1,0 +1,24 @@
+{
+    "conversas":[
+        {
+            "mensagens": ["ola"],
+            "resposta": "Ola, Meu nome e Lua, sou o robo de atendimento da Awake. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["oi"],
+            "resposta": "Ola, Meu nome e Lua, sou o robo de atendimento da Awake. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["bom dia"],
+            "resposta": "Bom dia, Meu nome e Lua, sou o robo de atendimento da Awake. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["boa tarde"],
+            "resposta": "Boa tarde, Meu nome e Lua, sou o robo de atendimento da Awake. Como posso te ajudar?"
+        },
+        {
+            "mensagens": ["boa noite"],
+            "resposta": "Boa noite, Meu nome e Lua, sou o robo de atendimento da Awake. Como posso te ajudar?"
+        }
+    ]
+}

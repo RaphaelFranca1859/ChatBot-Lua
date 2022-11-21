@@ -1,0 +1,36 @@
+{
+    "conversas":[
+        {
+            "mensagens": ["qual o horario de atendimento da Awake?", "qual o horario de funcionamento da awake?"],
+            "resposta": "O Horario de funcionamento da Awake e de Segunda a Sexta de 08h as 18h e aos sabados de 08h as 12h"
+        },
+        {
+            "mensagens": ["quais cursos a Awake oferece?", "quais cursos tem?", "quais cursos tem a awake"],
+            "resposta": "A Awake conta com dois cursos, o Nitro e o 7Awake. Consulte o nosso site para maiores informações: https://www.portalawake.com.br/"
+        },
+        {
+            "mensagens": ["qual o metodo de aprendizagem?", "quais os metodos utilizados?", "qual metodo usa?", "quais metodos a awake usa?"],
+            "resposta": "Na Awake as aulas sao ministradas de forma que o aluno vivencie o idioma diariamente, como se estivesse em qualquer outro pais do mundo. Alem das aulas ao vivo, elaboramos um ambiente de aprendizagem dinamico e autentico para os alunos participarem e aprenderem juntos todos os dias! O material didatico foi desenvolvido exclusivamente para a Awake, com conteúdo multicultural enriquecedor, cobrindo topicos de autoconhecimento e autodesenvolvimento, alem de um sistema avaliativo diferenciado – chega de provas!"
+        },
+        {
+            "mensagens": ["quanto tempo dura o curso da Awake?", "qual a duracao dos cursos da awake?", "qual a duracao dos cursos?"],
+            "resposta": "O curso Nitro tem a duracao de 3 meses, e o curso 7Awake tem a duracao de ate 2 anos"
+        },
+        {
+            "mensagens": ["quais documentos preciso para me matricular?", "quais documentos necessarios para a matricula?"],
+            "resposta": "Documento de identificacao(CNH, RG ou carteira de trabalho) e comprovante de residencia"
+        },
+        {
+            "mensagens": ["quais sao as formas de pagamento disponiveis?", "qual a forma de pagamento das mensalidades?"],
+            "resposta": "A formas de pagamento disponiveis sao: boleto: cartao de credito ou pix"
+        },
+        {
+            "mensagens": ["quais as promocoes disponiveis?", "existe alguma promocao?"],
+            "resposta": "Sim! na Awake indicando um amigo você garante um boleto zerado no proximo mes. Indicando dois amigos alem do boleto zerado você garante tambem um lindo headset sem fio!"
+        },
+        {
+            "mensagens": ["quero indicar um amigo, como faco?", "quero indicar um amigo?"],
+            "resposta": "Me informa o nome completo do seu amigo indicado e o seu CPF e assim que for confirmada a matricula o desconto entra na hora! "
+        }
+    ]
+}
